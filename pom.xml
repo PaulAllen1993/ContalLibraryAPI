@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.contal</groupId>
-	<artifactId>API</artifactId>
+	<artifactId>ContalLibrary</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Contal Library API</description>

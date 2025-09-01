@@ -1,4 +1,4 @@
-package com.contal.demo;
+package com.contal.API;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

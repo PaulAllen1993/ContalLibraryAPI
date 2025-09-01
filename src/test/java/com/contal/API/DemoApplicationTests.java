@@ -1,4 +1,4 @@
-package com.contal.demo;
+package com.contal.API;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
